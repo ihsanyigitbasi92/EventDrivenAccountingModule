@@ -1,0 +1,11 @@
+
+"""
+Files and directories to be ignored by Git.
+"""
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
