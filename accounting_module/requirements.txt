@@ -1,0 +1,14 @@
+
+"""
+Project dependencies.
+"""
+
+Flask==2.x.x
+Django==3.x.x
+SQLAlchemy==1.x.x
+psycopg2-binary==2.x.x
+PyJWT==2.x.x
+Loguru==0.x.x
+pytest==6.x.x
+kafka-python==2.x.x
+pika==1.x.x
